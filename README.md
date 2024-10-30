@@ -45,7 +45,7 @@ Requirements
 - Operating System: Windows
 - .NET Framework: 4.5 or higher
 - C++/CLI compiler
-
+- Visual Studio
 Installation
 
 1. Clone the repository.
