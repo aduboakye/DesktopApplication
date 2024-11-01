@@ -52,8 +52,14 @@ Installation
 2. Open each project folder and compile the C++/CLI code using Visual Studio.
 3. Run the executable files.
 
+   Limitations
+
+- No database integration (data is stored in memory).
+- GUI code does not use a database language.
+
+
 Troubleshooting
 
 - Contact [Adu Boakye] at [aduboakyeyiadomowusu@gmail.com] for technical issues.
 - 
-There is no Database Language included in all this app
+  
