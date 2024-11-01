@@ -55,4 +55,5 @@ Installation
 Troubleshooting
 
 - Contact [Adu Boakye] at [aduboakyeyiadomowusu@gmail.com] for technical issues.
-
+- 
+There is no Database Language included in all this app
